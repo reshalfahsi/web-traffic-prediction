@@ -13,7 +13,7 @@ Temporal Graph Neural Network or Temporal GNN is one of the variant of the GNN w
 ## Experiment
 
 
-To try out the experiment, the [Google Colab notebook]((https://github.com/reshalfahsi/web-traffic-prediction/blob/master/Web_Traffic_Prediction.ipynb) is provided.
+To try out the experiment, the [Google Colab notebook](https://github.com/reshalfahsi/web-traffic-prediction/blob/master/Web_Traffic_Prediction.ipynb) is provided.
 
 
 ## Result
